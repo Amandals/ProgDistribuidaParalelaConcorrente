@@ -1,3 +1,4 @@
 # ProgDistribuidaParalelaConcorrente
 
-#Criação de um exemplo simples utilizando produtor / consumidor afim de trabalhar o uso do semaphore .
+#Criação de um exemplo simples utilizando produtor / consumidor afim de trabalhar o uso do semaphore em java.
+
